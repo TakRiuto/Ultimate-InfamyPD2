@@ -36,3 +36,5 @@ The enemy resistance is increased by 25%, and its damage is increased by 30% - E
 -Force 4 Players Spawn playing Solo.
 
 -Remove hostage exchange (Only 193).
+
+-Add Goonmod Outlines permanently on those skills awarded for having a specific level.
