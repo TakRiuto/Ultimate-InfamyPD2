@@ -20,11 +20,19 @@ The enemy resistance is increased by 25%, and its damage is increased by 30% - E
 
 # Things to do:
 -Choose rewards for level 150, 165, 180 and 193.
+
 -Choose balanced for level 145 - 190 and Level 191 - 193.
+
 -Review / Decipher the correct conditionals to limit Skills, Balanced and Bonus to the corresponding levels.
+
 -Add an Announcer that shows the current level of Ultimate Infamy to the other players in the Lobby (Host or Client).
+
 -Add a Lobby limitation to prevent Ultimate Infamy users from taking advantage of unbalanced skills buff.
+
 -Rebalance the amount of Dodge and Armor that each Armor has, to avoid unbalanced combinations (Demi-God).
+
 -Force Crime Spree to One Down.
+
 -Force 4 Players Spawn playing Solo.
--Remove hostage exchange (Only 193)
+
+-Remove hostage exchange (Only 193).
