@@ -9,8 +9,11 @@ Base Code:
 
 -TDLQ: PAYDAY 2 LuaJIT Source
 
-# Rewards for a LV 120: Muscle Perk Skills enabled.
+# Rewards for a LV 120: 
+Muscle Perk Skills enabled.
 
-# Rewards for LV 145+: Combat Medic (Aced), Martials Arts (Aced), Nine Lives (Aced), Equilibrium (Base), Second Wind (Base), Duck and Cover (Base), Chameleon (Aced), Third Law (Aced), Hardware Expert (Aced), Steady Grip (Base), Scavenger (Base), UnderDog (Ace), Stable Shot (Base) and Forced Friendship (Base).
+# Rewards for LV 145+: 
+Combat Medic (Aced), Martials Arts (Aced), Nine Lives (Aced), Equilibrium (Base), Second Wind (Base), Duck and Cover (Base), Chameleon (Aced), Third Law (Aced), Hardware Expert (Aced), Steady Grip (Base), Scavenger (Base), UnderDog (Ace), Stable Shot (Base) and Forced Friendship (Base).
 
-# The enemy resistance is increased by 25%, and its damage is increased by 30% - Enemy Spawn is increased a 20%.
+# Balanced (LV 120 - 145)
+The enemy resistance is increased by 25%, and its damage is increased by 30% - Enemy Spawn is increased a 20%.
