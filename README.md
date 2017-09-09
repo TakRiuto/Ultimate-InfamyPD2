@@ -12,11 +12,11 @@ Base Code:
 # Rewards for a LV 120: 
 Muscle Perk Skills enabled.
 
-# Rewards for LV 145+: 
-Combat Medic (Aced), Martials Arts (Aced), Nine Lives (Aced), Equilibrium (Base), Second Wind (Base), Duck and Cover (Base), Chameleon (Aced), Third Law (Aced), Hardware Expert (Aced), Steady Grip (Base), Scavenger (Base), UnderDog (Ace), Stable Shot (Base) and Forced Friendship (Base).
-
 # Balanced (LV 120 - 150):
 The enemy resistance is increased by 25%, and its damage is increased by 30% - Enemy Spawn is increased a 20%.
+
+# Rewards for LV 145+: 
+Combat Medic (Aced), Martials Arts (Aced), Nine Lives (Aced), Equilibrium (Base), Second Wind (Base), Duck and Cover (Base), Chameleon (Aced), Third Law (Aced), Hardware Expert (Aced), Steady Grip (Base), Scavenger (Base), UnderDog (Ace), Stable Shot (Base) and Forced Friendship (Base).
 
 # Rewards for a LV 150: 
 Rogue Perk Skills (Only T9) enabled.
