@@ -1,4 +1,4 @@
-# Ultimate Infamy (PROJECT IN PROGRESS)
+# Ultimate Infamy - Armored Edition (PROJECT IN PROGRESS)
 More fun for the XXV-100 players - Level 193 is back
 
 Base Code:
