@@ -1,4 +1,4 @@
----"hook_id": "lib/tweak_data/skilltreetweakdata", "script_path": "145+Skills.lua"---
+---"hook_id": "lib/tweak_data/skilltreetweakdata", "script_path": "lv145+/145+Skills.lua"---
 
 --local player_level = managers.experience:current_level()
 --if player_level >= 145 then--
