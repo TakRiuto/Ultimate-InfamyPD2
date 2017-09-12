@@ -132,12 +132,13 @@
 			--HOSTAGE TAKER--
 			"player_hostage_health_regen_addend_1",
 
-			--ICTV UNLOCKED--
+			--IRON MAN--
+			"player_armor_multiplier",
 			"body_armor6",
 
 			--EXTRA LEAD--
 			"ammo_bag_quantity",
-			"ammo_bag_ammo_increase1"
+			"ammo_bag_ammo_increase1",
 
 			--JACK OF ALL TRADES--
 			"deploy_interact_faster_1",
@@ -145,7 +146,7 @@
 
 			--KICK STARTED--
 			"player_drill_autorepair_2",
-			"player_drill_melee_hit_restart_chance_1"
+			"player_drill_melee_hit_restart_chance_1",
 
 			--ECM OVERDRIVE--
 			"ecm_jammer_duration_multiplier",
