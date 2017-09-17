@@ -31,7 +31,7 @@ Sociopath Perk Skills (Only T3 and T7) enabled.
 Anarchist Perk Skills enabled.
 
 # Rewards for a LV 193: 
-Disabled the pre-skill required for T2, T3 and T4 Skills, Combat Doctor (Aced), Inspire (Aced), Hostage Taker (Basic), ICTV Unlocked, Extra Lead (Aced), Jack of All Trades (Aced), KickStarted (Aced), ECM Overdrive (Aced), ECM Specialist (Basic), Shockproof (Aced), Feign Death (Aced), Swag Song (Aced), Messiah (Aced), Counterstrike (Aced)
+Disabled the pre-skill required for T2, T3 and T4 Skills, Combat Doctor (Aced), Inspire (Aced), Hostage Taker (Basic), ICTV Unlocked, Extra Lead (Aced), Jack of All Trades (Aced), KickStarted (Aced), ECM Overdrive (Aced), ECM Specialist (Basic), Shockproof (Aced), Feign Death (Aced), Swag Song (Aced), Messiah (Aced), Counterstrike (Aced), Joker (Basic), Confident (Aced), Stockholm Syndrome (Basic)
 
 # Balanced (LV 190 - 193):
 The enemy resistance is increased by 25%, and its damage is increased by 30% - Enemy Spawn is increased a 20% - Remove Hostage exchange.
