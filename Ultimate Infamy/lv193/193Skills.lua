@@ -118,7 +118,7 @@
 
 			--FORCED FRIENDSHIP--
 			"cable_tie_quantity",
-			"cable_tie_interact_speed_multiplier"
+			"cable_tie_interact_speed_multiplier",
 
 			--COMBAT DOCTOR--
 			"doctor_bag_quantity",
@@ -137,7 +137,7 @@
 
 			--EXTRA LEAD--
 			"ammo_bag_quantity",
-			"ammo_bag_ammo_increase1"
+			"ammo_bag_ammo_increase1",
 
 			--JACK OF ALL TRADES--
 			"deploy_interact_faster_1",
@@ -145,7 +145,7 @@
 
 			--KICK STARTED--
 			"player_drill_autorepair_2",
-			"player_drill_melee_hit_restart_chance_1"
+			"player_drill_melee_hit_restart_chance_1",
 
 			--ECM OVERDRIVE--
 			"ecm_jammer_duration_multiplier",
@@ -174,11 +174,25 @@
 
 			--MESSIAH--
 			"player_messiah_revive_from_bleed_out_1",
-			"player_recharge_messiah_1"
+			"player_recharge_messiah_1",
 
 			--COUNTER STRIKE--
 			"player_counter_strike_melee",
-			"player_counter_strike_spooc"
+			"player_counter_strike_spooc",
+
+			--JOKER--
+			"player_convert_enemies",
+			"player_convert_enemies_max_minions_1",
+
+			--CONFIDENT--
+			"player_intimidate_range_mul",
+			"player_intimidate_aura",
+			"player_convert_enemies_max_minions_2",
+
+			--STOCKHOLM SYNDROME--
+			"player_civ_calming_alerts",
+			"player_civ_intimidation_mul"
+
 		}
 	end
 --end--
