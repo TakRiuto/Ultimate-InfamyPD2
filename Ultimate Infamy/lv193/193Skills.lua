@@ -132,7 +132,8 @@
 			--HOSTAGE TAKER--
 			"player_hostage_health_regen_addend_1",
 
-			--ICTV UNLOCKED--
+			--IRON MAN--
+			"player_armor_multiplier",
 			"body_armor6",
 
 			--EXTRA LEAD--
