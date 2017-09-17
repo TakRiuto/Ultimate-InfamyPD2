@@ -55,3 +55,5 @@ The enemy resistance is increased by 25%, and its damage is increased by 30% - E
 -Add Goonmod Outlines permanently on those skills awarded for having a specific level.
 
 -Write all code for Balance and Rewards
+
+-Enable FSS Mod dependency (For more Balance)
